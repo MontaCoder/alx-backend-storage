@@ -47,4 +47,4 @@ def get_page(url: str) -> str:
 
 
 if __name__ == "__main__":
-    get_page('https://penpalworld.com')
+    get_page('https://httpbin.org/delay/10')
